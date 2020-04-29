@@ -1,0 +1,57 @@
+<!DOCTYPE html>>
+
+<htm>
+
+<h1> Reading 4 Notes</h1>
+
+<p> This is my takeways for the Reading</p>. 
+
+<h2> Chapter 4 takeways</h2>
+
+<ol>
+
+<li> Chapter 4</li>
+
+<li> Links are a very useful tool when creating a site in html.</li> 
+
+<li> Example of this would look like is the <a> element. This how you first start to intrest a link in html.</li>  
+
+<li> Best way to link a site is to make sure it is a relative link than a quailfied URL.</li>
+ses
+<li> You can even create links to open all types of email progrmas</li>
+
+
+<ol>
+
+ <h3> Chapter 15 takeways</h3>   
+
+<li> div elemtes are used for contatining elements to group sections of a page.</li>
+
+<li> This is really imporant for creating attractive page layouts</li>
+
+<li>P Webpages can ne fixed width or have liquid layouts.</li>
+
+<li> Most designers will keep webpages about 960 to 1000 pixels wide.</li>
+
+<li> There are CSS framewrorks that can help give rules for common tasks.</li>
+
+</ol>
+
+<h3>Chapter 3 and Pair Progrmaing take ways</h3>
+
+<ol>
+
+ <li> Functions will let you group staements togther to run a certain task.</li> 
+ 
+ <li> In order to create a function you have to give it a name and write statements inside of culry brackets.</li>
+
+ <li> Functions are locacted in Javasciprit.</li>
+
+ <li> Pair Progrmaing is great help for working togther to konck out a goal.</li>
+
+ <li> This is alos goof skill to learn once you are in the job world you will be woking with other people on projects
+     This helps to prep you for that situation.</li>
+
+</ol>
+
+</html>
